@@ -1,0 +1,2 @@
+# EasyBackgroundSlider
+Easy Background Slider
